@@ -1,3 +1,38 @@
+# SensAI - AI Career Coach  
+
+SensAI is an AI-powered career coach that helps users **build resumes, generate cover letters, and prepare for interviews**. It leverages **Google's Gemini AI** to generate professional documents that can be downloaded instantly.
+
+## 🚀 Features  
+- **Resume Builder**: AI-generated, customizable resumes.  
+- **Cover Letter Generator**: Personalized cover letters based on user input.  
+- **Interview Preparation**: Generates 10 random interview questions.  
+- **Download Documents**: Save resumes and cover letters easily.  
+- **Authentication**: Secure login/signup with **Clerk**.  
+- **Backend & Database**: Built with **Neon, Inngest, Prisma**, and **Next.js API routes**.  
+
+## 🔗 Live Demo  
+👉 [Try SensAI Now](https://sens-ai-ten.vercel.app/)  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend**: Next.js, React, shadcn/ui, Tailwind CSS  
+- **Backend**: Next.js API routes, Prisma, Neon, Inngest  
+- **Authentication**: Clerk  
+- **AI Model**: Google Gemini API  
+- **Deployment**: Vercel  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/KumarSamarth-ofc/SensAI.git
+cd SensAI
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -16,9 +51,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
